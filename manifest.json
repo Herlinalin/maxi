@@ -1,0 +1,38 @@
+{
+  "name": "MAXI ARTICLE",
+  "short_name": "MaxiArticle",
+  "start_url": "https://www.maxiarticle.org/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Practical ideas for a stylish, safe, and organized home.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiALDDJ4x4zMckTgU27HJ5bLy3Nn4GogT8jGzzBuss1nhPWVwLpB7ejnT_uMVcMNCVkT0yjFRwaHhbze1RgxAANgeJoDkQ1n_PmJGD-wAXiviTLhHZ_TTtEk4qKzPN3etjngqMTkbNQNJ3DcgFRqx11f-yR1bcAQ3r1pc057QEiX1gyfnJgaGLzo9p2lEc/s48/maxlogo.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiALDDJ4x4zMckTgU27HJ5bLy3Nn4GogT8jGzzBuss1nhPWVwLpB7ejnT_uMVcMNCVkT0yjFRwaHhbze1RgxAANgeJoDkQ1n_PmJGD-wAXiviTLhHZ_TTtEk4qKzPN3etjngqMTkbNQNJ3DcgFRqx11f-yR1bcAQ3r1pc057QEiX1gyfnJgaGLzo9p2lEc/s72/maxlogo.jpg",
+    "sizes": "72x72",
+    "type": "image/jpg"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiALDDJ4x4zMckTgU27HJ5bLy3Nn4GogT8jGzzBuss1nhPWVwLpB7ejnT_uMVcMNCVkT0yjFRwaHhbze1RgxAANgeJoDkQ1n_PmJGD-wAXiviTLhHZ_TTtEk4qKzPN3etjngqMTkbNQNJ3DcgFRqx11f-yR1bcAQ3r1pc057QEiX1gyfnJgaGLzo9p2lEc/s96/maxlogo.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiALDDJ4x4zMckTgU27HJ5bLy3Nn4GogT8jGzzBuss1nhPWVwLpB7ejnT_uMVcMNCVkT0yjFRwaHhbze1RgxAANgeJoDkQ1n_PmJGD-wAXiviTLhHZ_TTtEk4qKzPN3etjngqMTkbNQNJ3DcgFRqx11f-yR1bcAQ3r1pc057QEiX1gyfnJgaGLzo9p2lEc/s144/maxlogo.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiALDDJ4x4zMckTgU27HJ5bLy3Nn4GogT8jGzzBuss1nhPWVwLpB7ejnT_uMVcMNCVkT0yjFRwaHhbze1RgxAANgeJoDkQ1n_PmJGD-wAXiviTLhHZ_TTtEk4qKzPN3etjngqMTkbNQNJ3DcgFRqx11f-yR1bcAQ3r1pc057QEiX1gyfnJgaGLzo9p2lEc/s168/maxlogo.jpg",
+    "sizes": "168x168",
+    "type": "image/jpg"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiALDDJ4x4zMckTgU27HJ5bLy3Nn4GogT8jGzzBuss1nhPWVwLpB7ejnT_uMVcMNCVkT0yjFRwaHhbze1RgxAANgeJoDkQ1n_PmJGD-wAXiviTLhHZ_TTtEk4qKzPN3etjngqMTkbNQNJ3DcgFRqx11f-yR1bcAQ3r1pc057QEiX1gyfnJgaGLzo9p2lEc/s192/maxlogo.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiALDDJ4x4zMckTgU27HJ5bLy3Nn4GogT8jGzzBuss1nhPWVwLpB7ejnT_uMVcMNCVkT0yjFRwaHhbze1RgxAANgeJoDkQ1n_PmJGD-wAXiviTLhHZ_TTtEk4qKzPN3etjngqMTkbNQNJ3DcgFRqx11f-yR1bcAQ3r1pc057QEiX1gyfnJgaGLzo9p2lEc/s512/maxlogo.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }]
+}
